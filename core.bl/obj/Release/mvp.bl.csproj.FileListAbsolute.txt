@@ -1,0 +1,6 @@
+C:\Users\Ivan\Desktop\Проекты\MVP\MVP\mvp.bl\bin\Release\mvp.bl.dll
+C:\Users\Ivan\Desktop\Проекты\MVP\MVP\mvp.bl\bin\Release\mvp.bl.pdb
+C:\Users\Ivan\Desktop\Проекты\MVP\MVP\mvp.bl\obj\Release\mvp.bl.csproj.ResolveComReference.cache
+C:\Users\Ivan\Desktop\Проекты\MVP\MVP\mvp.bl\obj\Release\mvp.bl.dll
+C:\Users\Ivan\Desktop\Проекты\MVP\MVP\mvp.bl\obj\Release\mvp.bl.pdb
+C:\Users\Ivan\Desktop\Проекты\MVP\MVP\mvp.bl\obj\Release\mvp.bl.csprojResolveAssemblyReference.cache

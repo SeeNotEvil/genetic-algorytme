@@ -1,0 +1,18 @@
+C:\Users\Ivan\Desktop\Диплом\MVP\mvp.bl\bin\Debug\mvp.bl.dll
+C:\Users\Ivan\Desktop\Диплом\MVP\mvp.bl\bin\Debug\mvp.bl.pdb
+C:\Users\Ivan\Desktop\Диплом\MVP\mvp.bl\obj\Debug\core.bl.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Диплом\MVP\mvp.bl\obj\Debug\core.bl.csproj.ResolveComReference.cache
+C:\Users\Ivan\Desktop\Диплом\MVP\mvp.bl\obj\Debug\mvp.bl.dll
+C:\Users\Ivan\Desktop\Диплом\MVP\mvp.bl\obj\Debug\mvp.bl.pdb
+C:\Users\Ivan\Desktop\Диплом\genetic-algorytme\mvp.bl\bin\Debug\mvp.bl.dll
+C:\Users\Ivan\Desktop\Диплом\genetic-algorytme\mvp.bl\bin\Debug\mvp.bl.pdb
+C:\Users\Ivan\Desktop\Диплом\genetic-algorytme\mvp.bl\obj\Debug\core.bl.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Диплом\genetic-algorytme\mvp.bl\obj\Debug\core.bl.csproj.ResolveComReference.cache
+C:\Users\Ivan\Desktop\Диплом\genetic-algorytme\mvp.bl\obj\Debug\mvp.bl.dll
+C:\Users\Ivan\Desktop\Диплом\genetic-algorytme\mvp.bl\obj\Debug\mvp.bl.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\genetic-algorytme\core.bl\obj\Debug\core.bl.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\genetic-algorytme\core.bl\obj\Debug\core.bl.csproj.ResolveComReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\genetic-algorytme\core.bl\bin\Debug\core.bl.dll
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\genetic-algorytme\core.bl\bin\Debug\core.bl.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\genetic-algorytme\core.bl\obj\Debug\core.bl.dll
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\genetic-algorytme\core.bl\obj\Debug\core.bl.pdb
